@@ -2,11 +2,11 @@
 
 ### Intrested in...
 * ```NodeJS```
-  * Getting it soon on my ``` Raspberry Pi 1 ```
+  * Getting it soon on my ``` Raspberry Pi 4 ```
 * ```Python```
-  * Already have it on my ``` Raspberry Pi 1 ```
+  * Already have it on my ``` Raspberry Pi 4 ```
  * ```VueJS```
-    * Might use it on my ``` Raspberry Pi 1 ``` when I get ```NodeJS``` and ```npm```
+    * Might use it on my ``` Raspberry Pi 4 ``` when I get ```NodeJS``` and ```npm```
     
 ### Learning checklist
 * [ ] NodeJS
