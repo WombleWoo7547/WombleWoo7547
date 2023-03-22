@@ -1,4 +1,4 @@
-# Hi Everyone I'm Thomas!
+# Hi Everyone I'm WombleWoo7547!
 
 ### Intrested in...
 * ```NodeJS```
@@ -9,12 +9,13 @@
     * Might use it on my ``` Raspberry Pi 4 ``` when I get ```NodeJS``` and ```npm```
     
 ### Learning checklist
-* [ ] NodeJS
-  * [ ] ExpressJS
-  * [ ] MongoDB
-    * [ ] Monk
-    * [ ] Mongoose 
-    * [ ] Mongo Shell
+* [x] NodeJS
+  * [x] ExpressJS
+  * [x] MongoDB
+    * [x] Monk
+    * [ ] --Mongoose-- 
+    * [x] -Mongo Shell-
     * [ ] ~~MongoDB itself~~
- * [ ] VueJS
-    * [ ] Vue 3 Composition API
+ * [x] VueJS
+    * [x] Vue 3 Composition API
+ * [ ] React.JS
