@@ -8,9 +8,10 @@
  * CSS
  * JS
  * React
+ * Astro
  * CSS Frameworks
 
 ### Current Projects...
-* URL Shortener App
+* Rebuilding personal blog page
 * Modern Management UI
-* Full stack ~~twitter~~ *X* clone with auth
+* Full stack ~~twitter~~ **X** clone with auth completely custom using Pocketbase
